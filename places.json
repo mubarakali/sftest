@@ -1,0 +1,19 @@
+[
+  {
+    "id": "123456789",
+    "name": "Ali Bhai Tea Stall",
+    "shortAddress": "Kaspa, Vellore",
+    "longAddress": "15/D Ibrahim sahib street, kaspa, vellore-6320001",
+    "avgCost": 100,
+    "placeToSeat": true,
+    "popularFor": "Tea, Coffee",
+    "location": {"type": "Point", "coordinates": [15, 15]},
+    "photos": [],
+    "reviews": [],
+    "avgRating": 4.5,
+    "beenHereCount": 1000,
+    "favoriteCount": 1000,
+    "bookmarkCount": 500,
+    "reviewCount": 200
+  }
+]
